@@ -4,5 +4,9 @@
             "skipStyle": true,
             "externalTemplate": true
         }
-    }
+    },
+    "css.lint.unknownAtRules": "ignore",
+    "cSpell.words": [
+        "tailwindcss"
+    ]
 }
