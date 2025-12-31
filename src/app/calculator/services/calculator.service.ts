@@ -47,8 +47,8 @@ export class CalculatorService {
         this.resultText.set('0');
         return;
       }
-      this.resultText.update((value) => value.slice(0, -1));
 
+      this.resultText.update((value) => value.slice(0, -1));
       return;
     }
 
